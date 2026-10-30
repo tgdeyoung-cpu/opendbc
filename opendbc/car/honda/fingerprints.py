@@ -869,6 +869,7 @@ FW_VERSIONS = {
       b'36161-T6Z-A620\x00\x00',
       b'36161-T6Z-A720\x00\x00',
       b'36161-TJZ-A120\x00\x00',
+      b'36161-T6Z-A820\x00\x00',
     ],
     (Ecu.gateway, 0x18daeff1, None): [
       b'38897-T6Z-A010\x00\x00',
